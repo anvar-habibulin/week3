@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;    
+}
+
+/* .col {
+    background-color: hsl(0, 38%, 82%);
+    border: solid 1px black;
+} */
+
+.name {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: azure;
+    border: 1px solid greenyellow;
+    padding: 20px;
+    text-align: left;
+    height: 100%;
+}
+
+a {
+    margin: 15px;
+}
+
+.nav {
+    display: flex;
+    justify-content:right;
+    align-items: end;
+    background-color: azure;
+    border: 1px solid greenyellow;
+    height: 100%;
+}
+
+header {
+    min-height: 90px;
+    margin-bottom: 10px;
+}
+
+.aboutme, .competition, .tech,  .footer {
+    background-color: azure;
+    border: 1px solid greenyellow;
+    padding: 20px;
+    text-align: left;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.projects {
+    display: flex;
+    background-color: azure;
+    border: 1px solid greenyellow;
+    padding: 20px;
+    text-align: left;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
